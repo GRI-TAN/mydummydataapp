@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mydummydataapp/static/css/main.e5c9b545.css",
+    "main.js": "/mydummydataapp/static/js/main.05efff1e.js",
+    "static/js/787.4475752b.chunk.js": "/mydummydataapp/static/js/787.4475752b.chunk.js",
+    "index.html": "/mydummydataapp/index.html",
+    "main.e5c9b545.css.map": "/mydummydataapp/static/css/main.e5c9b545.css.map",
+    "main.05efff1e.js.map": "/mydummydataapp/static/js/main.05efff1e.js.map",
+    "787.4475752b.chunk.js.map": "/mydummydataapp/static/js/787.4475752b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5c9b545.css",
+    "static/js/main.05efff1e.js"
+  ]
+}
